@@ -1,4 +1,2 @@
-a = 3
-b=6
-c=a+b
-d= a*b
+def add(a,b):
+    return a+b
